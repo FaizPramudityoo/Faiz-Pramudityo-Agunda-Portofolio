@@ -116,6 +116,7 @@ I start by mapping the data path: where a measurement or message enters, how it 
 ## Contact
 
 LinkedIn: [https://www.linkedin.com/in/faizpramudityoagunda/](https://www.linkedin.com/in/faizpramudityoagunda/)
+
 Email: [Pramudityo32@gmail.com](mailto:Pramudityo32@gmail.com)
 
 ---
