@@ -116,8 +116,8 @@ I start by mapping the data path: where a measurement or message enters, how it 
 ## Contact
 
 You can reach me through my GitHub profile.
-LinkedIn: www.linkedin.com/in/faizpramudityoagunda/
-Email: Pramudityo32@gmai.com
+**LinkedIn**: www.linkedin.com/in/faizpramudityoagunda/
+**Email**: Pramudityo32@gmai.com
 ---
 
 The ESP32 gateway and FPGA parser are team projects. The descriptions above summarize shared technical work; individual contributions can be added once specified.
